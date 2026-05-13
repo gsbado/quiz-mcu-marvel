@@ -8,7 +8,7 @@ A simple quiz application about the Marvel Cinematic Universe (MCU), developed d
 
 ## 👀 How to View
 1. To view the project locally, clone or download the repository and open the index.html file in your web browser.
-2. Alternatively, visit the live version at [gsbado.github.io/projeto-gta/.](https://gsbado.github.io/nlw-experts/)
+2. Alternatively, visit the live version at [gsbado.github.io/quiz-mcu-marvel/](https://gsbado.github.io/quiz-mcu-marvel/)
 
 ## 🙌 Credits
 - Original project by Rocketseat (NLW Experts – HTML+CSS+JS)
